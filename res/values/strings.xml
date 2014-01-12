@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">DoubanGet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="next">下一页</string>
+    <string name="last">上一页</string>
+    <string name="search">搜索</string>
+    <string name="Title">书名：</string>
+    <string name="Author">作者：</string>
+    <string name="Price">价格：</string>
+    <string name="Press">出版社：</string>
+    <string name="ISBN">ISBN：</string>
+    <string name="NO1">NO1</string>
+    <string name="NO2">NO2</string>
+    <string name="NO3">NO3</string>
+    <string name="NO4">NO4</string>
+    <string name="NO5">NO5</string>
+    <string name="Summary">简介：</string>
+    <string name="Comment">评论：</string>
+    <string name="chance">是否登录？</string>
+    <string name="yes">是</string>
+    <string name="No">否</string>
+    <string name="zhuanji">专辑</string>
+    <string name="Start">开始</string>
+
+</resources>
